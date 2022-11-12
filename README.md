@@ -17,6 +17,7 @@ keypad and displayed on the LCD then the result is written on the
 LCD after pressing “=" on keypad.
 
 features:
+
 • Support binary operators +, -, *, /, %, and ^ (on integers only).
 
 • It can deal with integers and float numbers.
@@ -29,7 +30,7 @@ features:
 
 Operation:
 
-• Expression is entered character by character using keypad and
+Expression is entered character by character using keypad and
 stored as a string, the LCD prints the inputs until "=" button is
 pressed, when "=" is pressed the input expression -infix exp- is
 converted to postfix one and calculations are made on it then the
