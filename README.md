@@ -1,4 +1,4 @@
-Project Name: Embedded Calculator
+Project Name: Embedded Calculator(during ITI internship August 2021 – September 2021)
 
 Team members:
 
