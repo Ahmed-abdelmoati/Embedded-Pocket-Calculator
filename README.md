@@ -9,6 +9,7 @@ Team members:
 محمد مصطفى ثابت
 
 Main components:
+
 Atmega32 with Keypad &LCD
 Description:
 Embedded Calculator is a simple calculator that performs the
